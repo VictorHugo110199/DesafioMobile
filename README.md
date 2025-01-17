@@ -21,7 +21,7 @@ Este projeto foi desenvolvido como parte de um desafio técnico para demonstrar 
 
 ## 💻 Recursos obrigatórios
 
-1. **Telas:**
+ **Telas:**
    - SignIn (Login para acessar as outras telas)
    - Home (Listagem das marcas de carros)
    - Model (Listagem dos modelos de carros ao clicar na marca específica)
@@ -59,6 +59,7 @@ Este projeto foi desenvolvido como parte de um desafio técnico para demonstrar 
 2. **Inicie o proeto:**
    ```bash
    yarn ios
+   yarn android
 
 ##🧪 Testes e Melhorias Futuras
 - Testes: O projeto ainda não possui testes automatizados, mas a estrutura é compatível com Jest e React Testing Library.
