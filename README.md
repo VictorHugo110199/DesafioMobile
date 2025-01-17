@@ -59,16 +59,20 @@ Este projeto foi desenvolvido como parte de um desafio técnico para demonstrar 
 2. **Inicie o proeto:**
    ```bash
    yarn ios
+   ```
    
-```bash
+   ```bash
    yarn ios
-```
-```bash
-   npm run ios
-```
+   ```
+   
    ```bash
    npm run ios
-```
+   ```
+   
+   ```bash
+   npm run ios
+   ```
+   
 ##🧪 Testes e Melhorias Futuras
 - Testes: O projeto ainda não possui testes automatizados, mas a estrutura é compatível com Jest e React Testing Library.
 - Melhorias Futuras:
