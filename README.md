@@ -62,7 +62,7 @@ Este projeto foi desenvolvido como parte de um desafio técnico para demonstrar 
    ```
    
    ```bash
-   yarn ios
+   yarn android
    ```
    
    ```bash
@@ -70,7 +70,7 @@ Este projeto foi desenvolvido como parte de um desafio técnico para demonstrar 
    ```
    
    ```bash
-   npm run ios
+   npm run android
    ```
    
 ##🧪 Testes e Melhorias Futuras
